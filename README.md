@@ -1,4 +1,4 @@
-# Portfolio – Hyounjin Bae
+# Portfolio – 배현진 (Hyounjin Bae)
 
 데이터를 정리하고 분석하여 문제를 구조화하고 의사결정에 도움이 되는 인사이트를 도출하는 데이터 분석가를 목표로 삼고 있습니다. 
 
