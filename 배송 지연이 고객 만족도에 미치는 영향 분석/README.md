@@ -8,7 +8,7 @@
 
 프로젝트 기간 : 2025년 12월 26일 ~ 현재
 
-활용 데이터 셋 : Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+활용 데이터 셋 : [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 활용 언어 : SQL, Python
 
