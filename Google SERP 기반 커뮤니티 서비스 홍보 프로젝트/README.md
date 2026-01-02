@@ -1,4 +1,4 @@
-# Google SERP 기반 커뮤니티 서비스 홍보 분석 프로젝트  
+# Google SERP 기반 커뮤니티 서비스 홍보 프로젝트  
 
 본 프로젝트는 홍콩 Sai Kung District Community Center(SKDCC)의  
 주요 커뮤니티 서비스 3종을 Google 검색 결과(SERP)에 효과적으로 노출시키기 위해  
