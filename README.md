@@ -2,24 +2,43 @@
 
 데이터를 정리하고 분석하여 문제를 구조화하고 의사결정에 도움이 되는 인사이트를 도출하는 데이터 분석가를 목표로 삼고 있습니다. 
 
-SQL 기반 데이터 분석과 Python을 활용한 분석 자동화에 강점을 가지고 있으며 비즈니스 관점에서 데이터를 해석하는 데 관심이 있습니다.
+실제 데이터와 프로젝트를 통해 문제 정의부터 분석, 결과 해석까지 전체 분석 흐름을 설계하고 구현해왔습니다.
 
 ## Projects
 
-### 1. AI Agent Building Course with Google
+### 1. 배송 지연이 고객 만족도에 미치는 영향 분석
 
-Google에서 제공한 실습 중심 커리큘럼을 기반으로 AI Agent 설계와 실행 구조를 학습하고 직접 구현한 프로젝트입니다. 
+이커머스 주문 데이터를 활용하여
+배송 지연 여부 및 지연 기간이
+고객 만족도에 미치는 영향을 분석한 프로젝트입니다.
 
-Kaggle 환경과 Google AI Studio를 활용하여 프롬프트 설계와 에이전트 동작 흐름을 실습 중심으로 이해했습니다. 
+SQL을 통해 분석용 데이터 구조를 설계하고,
+Tableau 대시보드를 활용하여
+배송 성과와 고객 경험 간의 관계를 시각적으로 표현하였습니다.
 
-사용 도구 : Kaggle, Google AI Studio, Google Cloud Console
+분석 결과를 바탕으로
+지역별 배송 지연 패턴과
+운영 개선에 활용 가능한 인사이트를 도출하였습니다.
+
+### 2. AI Agent 설계 및 구현 프로젝트 (Google)
+
+Google에서 제공한 실습 중심 커리큘럼을 기반으로
+AI Agent의 설계 구조와 실행 흐름을 이해하고
+직접 구현한 프로젝트입니다.
+
+Kaggle 환경과 Google AI Studio를 활용하여
+프롬프트 설계와 에이전트 동작 로직을 실습 중심으로 구현하였으며,
+에이전트 구조와 자동화 흐름에 대한 이해를 강화하였습니다.
+
+사용 도구
+Kaggle
+Google AI Studio
+Google Cloud Console
 
 핵심 내용
-- AI Agent 구조 이해
-- Prompt Engineering 실습
-- Google Cloud 기반 실행 환경 구성
-
-### 2. 배송 지연이 고객 만족도에 미치는 영향 분석
+	•	AI Agent 구조 및 실행 흐름 이해
+	•	Prompt Engineering 실습
+	•	Google Cloud 기반 실행 환경 구성
 
 ## Contact
 
