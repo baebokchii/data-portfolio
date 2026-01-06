@@ -8,6 +8,8 @@
 
 ### 1. 배송 지연이 고객 만족도에 미치는 영향 분석
 
+[프로젝트 보기](./delivery_delay_impact)
+
 이커머스 주문 데이터를 활용하여
 배송 지연 여부 및 지연 기간이
 고객 만족도에 미치는 영향을 분석한 프로젝트입니다.
@@ -21,6 +23,8 @@ Tableau 대시보드를 활용하여
 운영 개선에 활용 가능한 인사이트를 도출하였습니다.
 
 ### 2. AI Agent 설계 및 구현 프로젝트 (Google)
+
+[프로젝트 보기](./ai_agent_course)
 
 Google에서 제공한 실습 중심 커리큘럼을 기반으로
 AI Agent의 설계 구조와 실행 흐름을 이해하고
@@ -39,6 +43,16 @@ Google Cloud Console
 - AI Agent 구조 및 실행 흐름 이해
 - Prompt Engineering 실습
 - Google Cloud 기반 실행 환경 구성
+
+### 3. Google SERP 기반 커뮤니티 서비스 홍보 프로젝트
+
+[프로젝트 보기](./google_serp_marketing)
+
+Google 검색 결과(SERP)와 Google Ads 성과 데이터를 활용해
+커뮤니티 서비스 3종의 홍보 효과를 분석한 프로젝트입니다.
+
+SEO 관점의 키워드 설계와 광고 카피 A/B 테스트를 통해
+서비스 유형별 클릭 반응과 개선 방향을 도출했습니다.
 
 ## Contact
 
